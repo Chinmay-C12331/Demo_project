@@ -1,0 +1,6 @@
+{
+  "name": "PQ-Shield: Post-Quantum Cryptography for Network Security",
+  "description": "Interactive post-quantum cryptography workbench for network security. Simulate TLS 1.3 / SSH handshakes, NIST FIPS 203/204/205 algorithms, lattice-based LWE math, packet fragmentation & MTU analysis, and enterprise migration roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
